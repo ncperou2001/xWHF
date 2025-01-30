@@ -1,15 +1,16 @@
 # xWHF
 ---
+### Estimating expected whiff rate for pitches using Statcast data. 
 
-## Directories
-- **/primary** - Extimated whiff rate for pitches deemed 'Primary Fastballs'.
-- **/secondary** - Extimated whiff rate for all other pitches.
+## Directories:
+- **/primary** - Expected whiff rate for pitches deemed 'Primary Fastballs'.
+- **/secondary** - Expected whiff rate for all other pitches.
 
-## Files
+## Files:
 - **/maj_agg.csv** - Extimated whiff rate for pitches thrown in MLB (2020-)
 - **/min_agg.csv** - Extimated whiff rate for pitches thrown in MiLB (A:2021, AAA:2022)
 
-## Columns
+## Columns:
 - **LVL** - League level pitches were thrown at (MLB,AAA,A)
 - **NAME** -Pitcher Name
 - **ID** - MLB Pitcher ID
